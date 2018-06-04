@@ -49,6 +49,7 @@ export const routes = (
                     )
             )} />
             <Route path="*" component={NotFound} />
+            
         </Switch>
     </Router>
 );

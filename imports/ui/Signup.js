@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router';
+import { Link } from 'react-router-dom';
 import { Accounts } from 'meteor/accounts-base';
 
 export default class Signup extends React.Component {
